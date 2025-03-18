@@ -3,7 +3,58 @@
 [![GitHub License](https://img.shields.io/github/license/mr-mrf-dev/NetLab-Archive)](/LICENSE)
 ![GitHub repo size](https://img.shields.io/github/repo-size/mr-mrf-dev/NetLab-Archive)
 
-my network lab projects and exam resources
+my network lab projects and exam resources, including the following:
+
+```text
+📂 NetLab-Archive
+├── 📁 images
+├── 📁 src
+│   ├── 📄 Exam.pkt
+│   └── 📄 Project.pkt
+├── 📄 LICENSE
+└── 📄 README.md
+```
+
+- Exam Packet Tracer files
+
+    ![Exam ScreenShot](/images/ExamScreenshot.png)
+
+- Project Packet Tracer files
+
+    ![Project ScreenShot](/images/ProjectScreenshot.png)
+
+## 📥 Getting Started
+
+1. prerequisites
+
+    - [Packet Tracer](https://www.netacad.com/courses/packet-tracer-download/)
+
+2. Clone the repository
+
+   If you have [Git](https://git-scm.com/) installed:
+
+   ```bash
+   git clone https://github.com/Mr-MRF-Dev/NetLab-Archive.git
+   ```
+
+   If you have [GitHub CLI](https://cli.github.com/) installed:
+
+   ```bash
+   gh repo clone Mr-MRF-Dev/NetLab-Archive
+   ```
+
+   Navigate to the Project Directory
+
+   ```bash
+   cd NetLab-Archive
+   ```
+
+3. Open the Packet Tracer files
+
+   - Open the Packet Tracer application
+   - Click on `File` > `Open`
+   - Navigate to the `src` directory
+   - Select the `Exam.pkt` or `Project.pkt` file
 
 ## 🤝 Contributing
 

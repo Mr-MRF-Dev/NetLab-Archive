@@ -27,7 +27,9 @@ My network lab projects and exam resources in Cisco Packet Tracer, including the
 
 1. prerequisites
 
-    - [Packet Tracer](https://www.netacad.com/courses/packet-tracer-download/)
+    - [Download Cisco Packet Tracer](https://www.netacad.com/courses/getting-started-cisco-packet-tracer?courseLang=en-US)  
+
+        Ensure you have Cisco Packet Tracer installed. This project was tested with **Windows 8.2.0 (64-bit)** version.
 
 2. Clone the repository
 

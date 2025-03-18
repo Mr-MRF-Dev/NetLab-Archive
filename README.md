@@ -3,7 +3,7 @@
 [![GitHub License](https://img.shields.io/github/license/mr-mrf-dev/NetLab-Archive)](/LICENSE)
 ![GitHub repo size](https://img.shields.io/github/repo-size/mr-mrf-dev/NetLab-Archive)
 
-my network lab projects and exam resources, including the following:
+My network lab projects and exam resources in Cisco Packet Tracer, including the following:
 
 ```text
 📂 NetLab-Archive

@@ -35,7 +35,7 @@ My network lab projects and exam resources in Cisco Packet Tracer, including the
 
     > also you can learn more about Packet Tracer by enrolling in the [`Getting Started With Cisco Packet Tracer`](https://www.netacad.com/courses/getting-started-cisco-packet-tracer?courseLang=en-US) course (from Cisco Networking Academy).
 
-1. Clone the repository
+2. Clone the repository
 
    If you have [Git](https://git-scm.com/) installed:
 

@@ -5,21 +5,23 @@
 
 My network lab projects and exam resources in Cisco Packet Tracer, including the following:
 
-```text
-📂 NetLab-Archive
-├── 📁 images
-├── 📁 src
-│   ├── 📄 Exam.pkt
-│   └── 📄 Project.pkt
-├── 📄 LICENSE
-└── 📄 README.md
-```
+- Folder Structure
 
-- Exam Packet Tracer files
+  ```text
+  📂 NetLab-Archive
+  ├── 📁 images
+  ├── 📁 src
+  │   ├── 📄 Exam.pkt
+  │   └── 📄 Project.pkt
+  ├── 📄 LICENSE
+  └── 📄 README.md
+  ```
+
+- Exam Packet Tracer file
 
     ![Exam ScreenShot](/images/ExamScreenshot.png)
 
-- Project Packet Tracer files
+- Project Packet Tracer file
 
     ![Project ScreenShot](/images/ProjectScreenshot.png)
 
@@ -27,13 +29,13 @@ My network lab projects and exam resources in Cisco Packet Tracer, including the
 
 1. prerequisites
 
-    - [Download Cisco Packet Tracer](https://www.netacad.com/resources/lab-downloads?courseLang=en-US#:~:text=Learning%20Resources-,Cisco%20Packet%20Tracer,-Cisco%20Packet%20Tracer)
+    [Download Cisco Packet Tracer](https://www.netacad.com/resources/lab-downloads?courseLang=en-US#:~:text=Learning%20Resources-,Cisco%20Packet%20Tracer,-Cisco%20Packet%20Tracer)
   
-        Ensure you have Cisco Packet Tracer installed. This project was tested with **Windows 8.2.0 (64-bit)** version.
+    Ensure you have Cisco Packet Tracer installed. This project was tested with **Windows 8.2.0 (64-bit)** version.
 
-        > [Getting Started With Cisco Packet Tracer](https://www.netacad.com/courses/getting-started-cisco-packet-tracer?courseLang=en-US)  
+    > also you can learn more about Packet Tracer by enrolling in the [`Getting Started With Cisco Packet Tracer`](https://www.netacad.com/courses/getting-started-cisco-packet-tracer?courseLang=en-US) course (from Cisco Networking Academy).
 
-2. Clone the repository
+1. Clone the repository
 
    If you have [Git](https://git-scm.com/) installed:
 
